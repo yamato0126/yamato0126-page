@@ -1,4 +1,6 @@
-## yamato0126's page
+---
+title: yamato0126's page
+---
 
 ### 取得資格
 - 基本情報技術者
